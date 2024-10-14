@@ -1,0 +1,6 @@
+github.com/gotranspile/g722 v0.0.0-20240123003956-384a1bb16a19 h1:vqA29ogkaaq2GxFQsMA8TTFUSGc1lGaZtnKbuiP840c=
+github.com/gotranspile/g722 v0.0.0-20240123003956-384a1bb16a19/go.mod h1:AcVi4yM6DRZscpQXsEWBPItD52Saqw0x7md4mmjzUi8=
+github.com/pd0mz/go-g711 v0.0.0-20160329073333-2af749cb3f62 h1:h+0VyYQCzrPAnmPZ1zuaREycJbBBJpx6MZy4vsW9Ke0=
+github.com/pd0mz/go-g711 v0.0.0-20160329073333-2af749cb3f62/go.mod h1:SfePfjf25SSBq6Non0ETwYysRCuRH3osvpckCn8v+ac=
+github.com/zaf/g711 v1.4.0 h1:XZYkjjiAg9QTBnHqEg37m2I9q3IIDv5JRYXs2N8ma7c=
+github.com/zaf/g711 v1.4.0/go.mod h1:eCDXt3dSp/kYYAoooba7ukD/Q75jvAaS4WOMr0l1Roo=
